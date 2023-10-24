@@ -5,7 +5,7 @@ audio.play()
 
 // peido
 evento.onclick = function peida() {
-    const audio1 = new Audio("assets/fart.mp3")
+    const audio1 = new Audio("assets/boom.mp3")
     audio1.play()
 }
 
